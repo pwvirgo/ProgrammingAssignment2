@@ -47,12 +47,7 @@ cacheSolve <- function(mcm, ...) {
 	inv
 }
 
-
 #-----------  what follows is  some code to run and test the functions above
-#-----  the following runs the program
-#  setwd("~/a/highEd/Rprograming/ProgrammingAssignment2")
-#  cachematrix(myMatrix)
-
 
 ## build a square matrix for testing
 testMatrix <- function(x) {
